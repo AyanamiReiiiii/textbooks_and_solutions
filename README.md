@@ -1,4 +1,4 @@
-This repository holds solution manuals to math textbooks. Here is the link to the overleaf project: https://www.overleaf.com/2682844525brvdpyxmdtyz#5b6b65
+This repository holds solution manuals to math textbooks. Here is the link to the overleaf project: https://www dot overleaf dot com/2682844525brvdpyxmdtyz#5b6b65
 
 Anyone with the link can edit. Please be responsible and do not make this link accessible to irresponsible people. 
 
